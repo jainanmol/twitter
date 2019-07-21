@@ -1,0 +1,20 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "tweets",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+    
+  },
+  "author": "Anmol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.1.2",
+    "mongoose": "^5.6.5",
+    "nodemon": "^1.19.1",
+    "twit": "^2.2.11"
+  }
+}
