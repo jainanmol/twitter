@@ -1,2 +1,2 @@
 # twitter
-10 Tweets on apge
+10 Tweets on a page
